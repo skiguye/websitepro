@@ -1,0 +1,73 @@
+.background{
+    height: 60rem;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url(../assets/img/lake+mountian.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: -30px;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+.skiPic1{
+    height: 50rem;
+    background-image: url(../assets/img/IMG_2993.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: -10px;
+}
+
+.dirtBike{
+    height: 50rem;
+    background-image: url(../assets/img/motoPic.JPG);
+    background-position: center;
+    background-size: cover;
+    margin: -10px;
+}
+
+.plane{
+    height: 50rem;
+    background-image: url(../assets/img/planes.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: -10px;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    size: 25px;
+}
+
+.footer{
+    height: 35px;
+    background-color: ghostwhite;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.menu{
+    min-height: 3.5rem;
+    background-color: #fff;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    padding: 0px;
+    overflow: hidden;
+}
+
+.youtube{
+    margin: center;
+}
